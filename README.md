@@ -15,7 +15,7 @@ Talk to me about
 - Machine Learning Platform **Tensorflow** (Still learning)
 - Analyze Data **Google Cloud Platform**
 ## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
+- 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://vo-nguyen-cao-duy.herokuapp.com/)
 - ⚡ Fun fact: Passionate about music.
 
