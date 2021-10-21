@@ -9,7 +9,7 @@
 I am Cao Duy 😃. I am from Vietnam and really into Data Science. I love to explore and learn about new things 🏫
 ## ⚡ Technologies
 Talk to me about
-- Data Analyst **Python, SQL**
+- Data Analytic Engineer **Python, SQL**
 - Web Application **Flask, Django**
 - Implement Machine Learning Models
 - Machine Learning Platform **Tensorflow** (Still learning)
